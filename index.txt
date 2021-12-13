@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<TITLE>Paul B. Larson</TITLE>
+</HEAD>
+<BODY>
+
+<body bgcolor=#ffffff>
+Paul B. Larson<br>
+larsonpb(at)muohio(period)edu<br>
+<a href="http://unixgen.muohio.edu/~MathStat/">Department of Mathematics and Statistics</a><br>
+<a href="http://www.miami.muohio.edu">Miami University</a><br>
+<a href="http://www.cityofoxford.org/">Oxford, Ohio</a> 45056<br>
+<hr>
+<a href="mathlinks.html">math links</a> |
+<a href="open.html">nonmath links</a>
+| <a
+href="papers.html">papers</a>
+|
+<a href="photos.html">pictures</a>
+<!--<a href="http://kurt.cla.kobe-u.ac.jp/~larson/Photos/photos.html">photos</a>
+| <a href="mat222.html">MAT222</a>  | <a href="mat344.html">MAT344</a> -->
+<hr>
+<!--I am spending in the 2003-2004 Academic year at the <A HREF="http://www.crm.es/">Centre de Recerca Matem&agrave;tica</A>
+<hr>->
+
+
+</BODY>
+</HTML>
